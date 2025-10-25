@@ -1,4 +1,4 @@
-from src.main import TokenAwareBeautifulSoup, TokenCountTag
+from src.bs4_token_ext.main import TokenAwareBeautifulSoup, TokenCountTag
 import pytest
 
 

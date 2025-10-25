@@ -1,6 +1,6 @@
 [project]
 name = "bs4-token-ext"
-version = "0.0.1"
+version = "0.0.2"
 license = {text = "MIT"}
 description = "Add your description here"
 readme = "README.md"
